@@ -1,5 +1,5 @@
-# discord-application
-Discord Application
+# ok-application
+Ok Application
 IN DEVELOPMENT
 VERSION 1.0.1
 TYPE : App
